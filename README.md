@@ -76,3 +76,7 @@ python scripts/validate_source.py
 ## Limitations
 
 The comparison is observational and pooled across wine types. It does not show that increasing alcohol causes a higher rating. Repeated exploratory comparisons and dataset sampling limit generalization.
+
+## Reuse
+
+The original contributions listed in [LICENSING.md](LICENSING.md) are available under [MIT](LICENSE). This scoped grant preserves upstream notices and separate dataset, simulator, notebook and checkpoint terms.
