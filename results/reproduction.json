@@ -1,0 +1,28 @@
+{
+  "slug": "wine-quality-statistical-analysis",
+  "date": "2026-10-17",
+  "notebook_sha256": "afcadbc846464e537dc616a90cd101d916a1c91fc8908e8204831a3eac27c195",
+  "code_cells": 16,
+  "numpy": "2.5.4",
+  "pandas": "3.0.6",
+  "torch": "2.14.1",
+  "sklearn": "1.9.1",
+  "inputs": {
+    "wine_quality.csv": "f10a10694fcd5a5dc1337769c59320a4a958a43746a4e66dec7759975a0f780f"
+  },
+  "metrics": {
+    "t_stat": 40.90081122988531,
+    "p_one_tailed": 8.676173905556917e-265,
+    "cohens_d": 1.5782485924878145,
+    "ci_low": 1.4850222511602202,
+    "ci_high": 1.6346076950223678,
+    "diff": 1.559814973091294
+  },
+  "plots": [
+    "figure-01.png",
+    "figure-02.png",
+    "figure-03.png",
+    "figure-04.png"
+  ],
+  "status": "passed"
+}
