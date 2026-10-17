@@ -1,0 +1,1 @@
+{"fixture": "eight generated wine records, not historical inference", "difference": 2.0, "ci95": [1.2474668565296883, 2.7525331434703117], "cohens_d": 4.598409991436083, "p_one_sided": 0.00031480046849592126}
