@@ -8,6 +8,15 @@ Descriptive analysis, wine-type stratification, correlation plots, directional W
 
 ![Implementation mechanism: Wine quality and alcohol values → Define comparison groups → Compute descriptive summaries → Welch comparison and confidence interval → Report effect size with observational limits](assets/mechanism.svg)
 
+
+
+## Reproduce the statistical contrast
+
+The full retained analysis has been rerun against the real 6,497-row wine table, with exact source/input hashes and captured outputs.
+
+[Commands, artifacts and benchmark scope](BENCHMARKS.md) · [Versioned profiles](reproduction.json)
+
+
 ## Try a small example
 
 A small offline fixture exercises the public implementation. It demonstrates the behavior shown below; it does not replace the historical dataset, benchmark or production validation.
